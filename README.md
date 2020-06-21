@@ -1,4 +1,4 @@
-# DrumKIT.github.io
+# DrumKIT
 ## The drum kit a handy computer BAND🤷‍♂️🎼 
 
 ####  Link to Play your Music ::: https://poojarathore30.github.io/DrumKIT.github.io/
