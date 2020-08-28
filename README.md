@@ -1,5 +1,5 @@
 # DrumKIT [Virtual Music Band]
-## The drum kit a handy computer BAND🤷‍♂️🎼 
+## The drum kit a handy computer BAND 🤷‍🎼 
 
 ####  Link to Play your Band ::: https://poojarathore30.github.io/DrumKIT.github.io/
 ####  PRESS "wasdjkl" keys on the keyboard or click on each instrument individually.
